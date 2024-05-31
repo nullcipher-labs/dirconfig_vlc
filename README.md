@@ -7,7 +7,9 @@
  You can set default tracks, but those are based on numbers (location in the track list) and are not constant between different files, sources, etc.
  I've looked for a plugin to fix this and couldn't find one, so I wrote this script.
 
-This is an exe file you'll need to configure to be the one opening your mkv files instead of vlc (it runs vlc itself, it just sets the tracks automatically before doing so).
+Here's a link to an exe file for easy use:
+https://drive.google.com/file/d/1fgNwKd7rWTXiGfiEna9OBHVzbm3OaZw7/view?usp=sharing
+You'll need to configure to be the one opening your mkv files instead of vlc (it runs vlc itself, it just sets the tracks automatically before doing so).
 
  # Features
 
@@ -27,7 +29,7 @@ This is an exe file you'll need to configure to be the one opening your mkv file
    - choose japanese audio, doesn't matter where it is placed on the audio track list
    - choose english subtitles.
      Sometimes in anime there are multiple english sub tracks, say one for dialogue, one for signs and such, and one for the opening and closing themes.
-     With this option, the program will automatically look for a English sub track with the word "full" in it (which means all of the above).
+     With this option, the program will automatically look for a english sub track with the word "full" in it (which means all of the above).
      If it can't find one, it will search for one that says "dialogue", and if it can't find one like that either, it will default to choose the first english sub track in the tracklist.
 
    This option is designed to save you time on figuring out what are the names of the tracks you want, if you're watching anime. You can still use SPECSUB too if you want a specific subtrack by sub group, for example crunchyroll.
@@ -77,4 +79,4 @@ https://pypi.org/project/python-vlc/
 
 Each function is described in the documentation.
 
-There a bunch of consts at the begining, I wouldn't lower SLEEP_TIME anymore if I were you.
+There a bunch of consts at the beginning, I wouldn't lower SLEEP_TIME anymore if I were you.
