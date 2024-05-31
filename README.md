@@ -67,7 +67,7 @@ There isn't really any installation required, just two easy setup steps, once yo
    ![4](https://github.com/nullcipher-labs/dirconfig_vlc/assets/35743548/d2fc0111-0f63-4143-8dc3-b3731c4d28cc)
 
 
-   That's it :)
+That's it :)
 
 
 # Code
