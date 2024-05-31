@@ -9,7 +9,7 @@
 
 Here's a link to an exe file for easy use:
 https://drive.google.com/file/d/1fgNwKd7rWTXiGfiEna9OBHVzbm3OaZw7/view?usp=sharing
-You'll need to configure to be the one opening your mkv files instead of vlc (it runs vlc itself, it just sets the tracks automatically before doing so).
+<br/>You'll need to configure to be the one opening your mkv files instead of vlc (it runs vlc itself, it just sets the tracks automatically before doing so).
 
  # Features
 
